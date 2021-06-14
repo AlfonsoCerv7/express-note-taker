@@ -15,7 +15,7 @@ To install dependencies, run the following:
 npm i
 `
 ## Usage
-Just use the heroku link to run the app
+Just use the heroku link to run the app. https://secure-caverns-61270.herokuapp.com/
 ## License
 This repository is licensed under the Unlicense license.
 ## Contributing
